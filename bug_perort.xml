@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<id>3</id>
+<title>open button</title>
+<project>FHR</project>
+<version>1.02</version>
+<STR>1. Login as Admin 2. Go to a course page 3. Turn editing on 4. Add a "Label" resource 5. On the following page, enter some arbitrary label text 6. Press the Save button"</STR>
+<ER>app opens</ER>
+<AR>app crashed</AR>
+<discriptions>app crashes whenever there’s an unexpected exit caused by an unhandled exception or signal</discriptions>
+<severity>blocker</severity>
+<priority>high</priority>
+<attachments></attachments>
